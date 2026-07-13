@@ -1,0 +1,30 @@
+services:
+  dashboard:
+    build: .
+    container_name: gamage-recruiters-dashboard
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./reports:/app/reports
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  automation-worker:
+    build: .
+    container_name: gamage-automation-worker
+    command: sh -c "while true; do python -m automation.report_worker; sleep 3600; done"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    volumes:
+      - ./reports:/app/reports
+    restart: unless-stopped
+    depends_on:
+      - dashboard

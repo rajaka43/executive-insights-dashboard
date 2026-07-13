@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "report_id": "WR_20260710_052710",
+    "generated_at": "2026-07-10T05:27:10.563878",
+    "period_start": "2026-07-03T05:27:10.540770",
+    "period_end": "2026-07-10T05:27:10.540770",
+    "total_records": 50,
+    "kpis": {
+      "placements": 11,
+      "revenue": 4583201.0,
+      "avg_time_to_hire": 37.63636363636363,
+      "active_pipeline": 25,
+      "health_score": 65.69333333333333
+    }
+  },
+  "executive_summary": "GAMAGE RECRUITERS - EXECUTIVE SUMMARY\n============================================================\n\nCORE PERFORMANCE METRICS:\n- Total Placements: 11\n- Total Revenue: Rs. 4,583,201.00\n- Average Time-to-Hire: 37.6 days\n- Active Pipeline: 25 candidates\n\nTARGET ACHIEVEMENT:\n- Placement Target: 31.4%\n- Revenue Target: 52.4%\n- Time Efficiency: 74.4%\n\nPIPELINE HEALTH:\n- Health Score: 65.7/100\n- Interviewing: 7\n- Screening: 18\n- Projected Placements (30d): 1\n\nCONVERSION FUNNEL:\n- Total Candidates: 50\n- Placement Rate: 22.0%\n- Rejected: 14 (28.0%)\n\n============================================================",
+  "top_clients": [
+    {
+      "client": "Digital Marketing Hub",
+      "total_candidates": 3,
+      "total_revenue": 1093540.0,
+      "avg_days_in_pipeline": 40.666666666666664,
+      "placements": 2,
+      "conversion_rate": 66.66666666666666,
+      "avg_revenue_per_placement": 546770.0,
+      "revenue_rank": 1.0,
+      "placement_rank": 1.0,
+      "performance_score": 588636.6666666666
+    },
+    {
+      "client": "Tech Innovations Lanka",
+      "total_candidates": 7,
+      "total_revenue": 646025.0,
+      "avg_days_in_pipeline": 31.142857142857142,
+      "placements": 1,
+      "conversion_rate": 14.285714285714285,
+      "avg_revenue_per_placement": 646025.0,
+      "revenue_rank": 2.0,
+      "placement_rank": 6.0,
+      "performance_score": 351783.9285714286
+    },
+    {
+      "client": "FinTech Solutions",
+      "total_candidates": 2,
+      "total_revenue": 554962.0,
+      "avg_days_in_pipeline": 50.5,
+      "placements": 1,
+      "conversion_rate": 50.0,
+      "avg_revenue_per_placement": 554962.0,
+      "revenue_rank": 3.0,
+      "placement_rank": 6.0,
+      "performance_score": 302381.0
+    },
+    {
+      "client": "Healthcare Systems Inc",
+      "total_candidates": 2,
+      "total_revenue": 421349.0,
+      "avg_days_in_pipeline": 33.5,
+      "placements": 1,
+      "conversion_rate": 50.0,
+      "avg_revenue_per_placement": 421349.0,
+      "revenue_rank": 4.0,
+      "placement_rank": 6.0,
+      "performance_score": 238974.5
+    },
+    {
+      "client": "Telecom Networks",
+      "total_candidates": 6,
+      "total_revenue": 359779.0,
+      "avg_days_in_pipeline": 22.0,
+      "placements": 1,
+      "conversion_rate": 16.666666666666664,
+      "avg_revenue_per_placement": 359779.0,
+      "revenue_rank": 5.0,
+      "placement_rank": 6.0,
+      "performance_score": 210489.5
+    }
+  ],
+  "department_performance": [
+    {
+      "department": "Legal",
+      "total_candidates": 8,
+      "total_revenue": 1062233.0,
+      "avg_days_in_pipeline": 40.375,
+      "placements": 3,
+      "active_pipeline": 3,
+      "conversion_rate": 37.5
+    },
+    {
+      "department": "Customer Service",
+      "total_candidates": 11,
+      "total_revenue": 1052283.0,
+      "avg_days_in_pipeline": 25.181818181818183,
+      "placements": 2,
+      "active_pipeline": 4,
+      "conversion_rate": 18.181818181818183
+    },
+    {
+      "department": "Marketing",
+      "total_candidates": 5,
+      "total_revenue": 999981.0,
+      "avg_days_in_pipeline": 30.2,
+      "placements": 2,
+      "active_pipeline": 3,
+      "conversion_rate": 40.0
+    },
+    {
+      "department": "Technology",
+      "total_candidates": 7,
+      "total_revenue": 641238.0,
+      "avg_days_in_pipeline": 32.285714285714285,
+      "placements": 2,
+      "active_pipeline": 2,
+      "conversion_rate": 28.57142857142857
+    },
+    {
+      "department": "Operations",
+      "total_candidates": 7,
+      "total_revenue": 554962.0,
+      "avg_days_in_pipeline": 40.42857142857143,
+      "placements": 1,
+      "active_pipeline": 5,
+      "conversion_rate": 14.285714285714285
+    },
+    {
+      "department": "Sales",
+      "total_candidates": 6,
+      "total_revenue": 272504.0,
+      "avg_days_in_pipeline": 24.833333333333332,
+      "placements": 1,
+      "active_pipeline": 3,
+      "conversion_rate": 16.666666666666664
+    },
+    {
+      "department": "Finance",
+      "total_candidates": 3,
+      "total_revenue": 0.0,
+      "avg_days_in_pipeline": 14.333333333333334,
+      "placements": 0,
+      "active_pipeline": 2,
+      "conversion_rate": 0.0
+    },
+    {
+      "department": "Human Resources",
+      "total_candidates": 3,
+      "total_revenue": 0.0,
+      "avg_days_in_pipeline": 36.666666666666664,
+      "placements": 0,
+      "active_pipeline": 3,
+      "conversion_rate": 0.0
+    }
+  ],
+  "pipeline_health": {
+    "active_candidates": 25,
+    "interviewing_count": 7,
+    "screening_count": 18,
+    "avg_age_of_pipeline": 30.64,
+    "oldest_candidate_days": "59",
+    "projected_placements_30d": 1,
+    "pipeline_velocity": 70.0,
+    "overall_health_score": 65.69333333333333
+  }
+}

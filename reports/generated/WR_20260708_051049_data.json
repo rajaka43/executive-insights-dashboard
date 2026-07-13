@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "report_id": "WR_20260708_051049",
+    "generated_at": "2026-07-08T05:10:49.562150",
+    "period_start": "2026-07-01T05:10:49.555487",
+    "period_end": "2026-07-08T05:10:49.555487",
+    "total_records": 11,
+    "kpis": {
+      "placements": 4,
+      "revenue": 2022059.0,
+      "avg_time_to_hire": 32.0,
+      "active_pipeline": 5,
+      "health_score": 60.06666666666666
+    }
+  },
+  "executive_summary": "GAMAGE RECRUITERS - EXECUTIVE SUMMARY\n============================================================\n\nCORE PERFORMANCE METRICS:\n- Total Placements: 4\n- Total Revenue: Rs. 2,022,059.00\n- Average Time-to-Hire: 32.0 days\n- Active Pipeline: 5 candidates\n\nTARGET ACHIEVEMENT:\n- Placement Target: 11.4%\n- Revenue Target: 23.1%\n- Time Efficiency: 87.5%\n\nPIPELINE HEALTH:\n- Health Score: 60.1/100\n- Interviewing: 1\n- Screening: 4\n- Projected Placements (30d): 0\n\nCONVERSION FUNNEL:\n- Total Candidates: 11\n- Placement Rate: 36.4%\n- Rejected: 2 (18.2%)\n\n============================================================",
+  "top_clients": [
+    {
+      "client": "Retail Giants LK",
+      "total_candidates": 3,
+      "total_revenue": 1001552.0,
+      "avg_days_in_pipeline": 24.666666666666668,
+      "placements": 2,
+      "conversion_rate": 66.66666666666666,
+      "avg_revenue_per_placement": 500776.0,
+      "revenue_rank": 1.0,
+      "placement_rank": 1.0,
+      "performance_score": 545842.6666666666
+    },
+    {
+      "client": "Energy Solutions",
+      "total_candidates": 1,
+      "total_revenue": 539060.0,
+      "avg_days_in_pipeline": 36.0,
+      "placements": 1,
+      "conversion_rate": 100.0,
+      "avg_revenue_per_placement": 539060.0,
+      "revenue_rank": 2.0,
+      "placement_rank": 2.5,
+      "performance_score": 297330.0
+    },
+    {
+      "client": "Healthcare Systems Inc",
+      "total_candidates": 1,
+      "total_revenue": 481447.0,
+      "avg_days_in_pipeline": 44.0,
+      "placements": 1,
+      "conversion_rate": 100.0,
+      "avg_revenue_per_placement": 481447.0,
+      "revenue_rank": 3.0,
+      "placement_rank": 2.5,
+      "performance_score": 266923.5
+    },
+    {
+      "client": "Global Logistics Pvt Ltd",
+      "total_candidates": 1,
+      "total_revenue": 0.0,
+      "avg_days_in_pipeline": 19.0,
+      "placements": 0,
+      "conversion_rate": 0.0,
+      "avg_revenue_per_placement": 0.0,
+      "revenue_rank": 6.0,
+      "placement_rank": 6.0,
+      "performance_score": 16200.0
+    },
+    {
+      "client": "E-Commerce Leaders",
+      "total_candidates": 1,
+      "total_revenue": 0.0,
+      "avg_days_in_pipeline": 21.0,
+      "placements": 0,
+      "conversion_rate": 0.0,
+      "avg_revenue_per_placement": 0.0,
+      "revenue_rank": 6.0,
+      "placement_rank": 6.0,
+      "performance_score": 15800.0
+    }
+  ],
+  "department_performance": [
+    {
+      "department": "Sales",
+      "total_candidates": 2,
+      "total_revenue": 792719.0,
+      "avg_days_in_pipeline": 40.0,
+      "placements": 2,
+      "active_pipeline": 0,
+      "conversion_rate": 100.0
+    },
+    {
+      "department": "Operations",
+      "total_candidates": 1,
+      "total_revenue": 690280.0,
+      "avg_days_in_pipeline": 12.0,
+      "placements": 1,
+      "active_pipeline": 0,
+      "conversion_rate": 100.0
+    },
+    {
+      "department": "Customer Service",
+      "total_candidates": 4,
+      "total_revenue": 539060.0,
+      "avg_days_in_pipeline": 32.75,
+      "placements": 1,
+      "active_pipeline": 2,
+      "conversion_rate": 25.0
+    },
+    {
+      "department": "Finance",
+      "total_candidates": 2,
+      "total_revenue": 0.0,
+      "avg_days_in_pipeline": 39.5,
+      "placements": 0,
+      "active_pipeline": 1,
+      "conversion_rate": 0.0
+    },
+    {
+      "department": "Human Resources",
+      "total_candidates": 1,
+      "total_revenue": 0.0,
+      "avg_days_in_pipeline": 21.0,
+      "placements": 0,
+      "active_pipeline": 1,
+      "conversion_rate": 0.0
+    },
+    {
+      "department": "Marketing",
+      "total_candidates": 1,
+      "total_revenue": 0.0,
+      "avg_days_in_pipeline": 49.0,
+      "placements": 0,
+      "active_pipeline": 1,
+      "conversion_rate": 0.0
+    }
+  ],
+  "pipeline_health": {
+    "active_candidates": 5,
+    "interviewing_count": 1,
+    "screening_count": 4,
+    "avg_age_of_pipeline": 29.6,
+    "oldest_candidate_days": "49",
+    "projected_placements_30d": 0,
+    "pipeline_velocity": 15.4,
+    "overall_health_score": 60.06666666666666
+  }
+}

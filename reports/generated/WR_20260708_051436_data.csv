@@ -1,0 +1,12 @@
+candidate_id,client,department,status,days_in_pipeline,revenue_lkr,application_date
+CAN_1001,FinTech Solutions,Finance,Rejected,46,0.0,2026-07-07
+CAN_1032,Healthcare Systems Inc,Sales,Placed,44,481447.0,2026-07-02
+CAN_1057,Manufacturing Excellence,Finance,Screening,33,0.0,2026-07-02
+CAN_1120,Insurance Corp,Marketing,Screening,49,0.0,2026-07-02
+CAN_1132,Global Logistics Pvt Ltd,Customer Service,Screening,19,0.0,2026-07-06
+CAN_1180,E-Commerce Leaders,Human Resources,Interviewing,21,0.0,2026-07-07
+CAN_1236,FinTech Solutions,Customer Service,Rejected,50,0.0,2026-07-05
+CAN_1295,Energy Solutions,Customer Service,Placed,36,539060.0,2026-07-03
+CAN_1346,Retail Giants LK,Operations,Placed,12,690280.0,2026-07-02
+CAN_1357,Retail Giants LK,Customer Service,Screening,26,0.0,2026-07-03
+CAN_1392,Retail Giants LK,Sales,Placed,36,311272.0,2026-07-07

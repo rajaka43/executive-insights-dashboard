@@ -1,0 +1,51 @@
+candidate_id,client,department,status,days_in_pipeline,revenue_lkr,application_date
+CAN_1001,Digital Marketing Hub,Marketing,Placed,30,687282.0,2026-07-09
+CAN_1032,Global Logistics Pvt Ltd,Finance,Screening,21,0.0,2026-07-04
+CAN_1057,Retail Giants LK,Technology,Rejected,49,0.0,2026-07-04
+CAN_1120,Manufacturing Excellence,Sales,Placed,8,272504.0,2026-07-04
+CAN_1132,Tech Innovations Lanka,Technology,Screening,26,0.0,2026-07-08
+CAN_1180,Insurance Corp,Sales,Screening,15,0.0,2026-07-09
+CAN_1236,Manufacturing Excellence,Legal,Interviewing,40,0.0,2026-07-07
+CAN_1295,Insurance Corp,Finance,Rejected,13,0.0,2026-07-05
+CAN_1346,Hospitality Group,Sales,Screening,20,0.0,2026-07-04
+CAN_1357,Telecom Networks,Customer Service,Rejected,25,0.0,2026-07-05
+CAN_1392,Ceylon Banking Group,Marketing,Placed,46,312699.0,2026-07-09
+CAN_1452,Tech Innovations Lanka,Operations,Screening,35,0.0,2026-07-08
+CAN_1459,Global Logistics Pvt Ltd,Legal,Placed,32,281105.0,2026-07-05
+CAN_1470,Consulting Partners,Sales,Rejected,18,0.0,2026-07-09
+CAN_1486,Education Institutions,Human Resources,Interviewing,40,0.0,2026-07-07
+CAN_1491,Insurance Corp,Operations,Interviewing,27,0.0,2026-07-08
+CAN_1530,FinTech Solutions,Human Resources,Screening,47,0.0,2026-07-06
+CAN_1552,Telecom Networks,Marketing,Screening,26,0.0,2026-07-06
+CAN_1569,Tech Innovations Lanka,Marketing,Screening,28,0.0,2026-07-09
+CAN_1595,Telecom Networks,Finance,Screening,9,0.0,2026-07-07
+CAN_1680,Hospitality Group,Sales,Screening,55,0.0,2026-07-07
+CAN_1706,Healthcare Systems Inc,Legal,Placed,54,421349.0,2026-07-06
+CAN_1714,Hospitality Group,Human Resources,Screening,23,0.0,2026-07-06
+CAN_1764,Insurance Corp,Operations,Screening,21,0.0,2026-07-08
+CAN_1774,Hospitality Group,Customer Service,Rejected,13,0.0,2026-07-08
+CAN_1812,Consulting Partners,Legal,Rejected,40,0.0,2026-07-07
+CAN_1831,Tech Innovations Lanka,Legal,Rejected,35,0.0,2026-07-06
+CAN_1852,Ceylon Banking Group,Customer Service,Rejected,19,0.0,2026-07-09
+CAN_1902,E-Commerce Leaders,Technology,Placed,27,287052.0,2026-07-09
+CAN_1936,E-Commerce Leaders,Customer Service,Rejected,7,0.0,2026-07-08
+CAN_1941,Tech Innovations Lanka,Customer Service,Placed,17,646025.0,2026-07-08
+CAN_1967,FinTech Solutions,Operations,Placed,54,554962.0,2026-07-07
+CAN_1993,Digital Marketing Hub,Customer Service,Screening,36,0.0,2026-07-07
+CAN_2033,Tech Innovations Lanka,Legal,Screening,51,0.0,2026-07-08
+CAN_2045,Education Institutions,Technology,Rejected,48,0.0,2026-07-08
+CAN_2047,Insurance Corp,Technology,Placed,45,354186.0,2026-07-08
+CAN_2051,Retail Giants LK,Operations,Screening,59,0.0,2026-07-08
+CAN_2077,Tech Innovations Lanka,Legal,Interviewing,26,0.0,2026-07-09
+CAN_2148,Telecom Networks,Marketing,Interviewing,21,0.0,2026-07-04
+CAN_2151,Telecom Networks,Customer Service,Interviewing,6,0.0,2026-07-09
+CAN_2170,Hospitality Group,Technology,Interviewing,23,0.0,2026-07-08
+CAN_2173,Digital Marketing Hub,Customer Service,Placed,56,406258.0,2026-07-09
+CAN_2176,Insurance Corp,Customer Service,Rejected,39,0.0,2026-07-06
+CAN_2187,Education Institutions,Sales,Rejected,33,0.0,2026-07-06
+CAN_2197,Manufacturing Excellence,Customer Service,Screening,46,0.0,2026-07-08
+CAN_2213,Telecom Networks,Legal,Placed,45,359779.0,2026-07-04
+CAN_2217,Ceylon Banking Group,Operations,Rejected,35,0.0,2026-07-08
+CAN_2234,Manufacturing Excellence,Technology,Rejected,8,0.0,2026-07-07
+CAN_2260,Healthcare Systems Inc,Customer Service,Screening,13,0.0,2026-07-05
+CAN_2389,Retail Giants LK,Operations,Screening,52,0.0,2026-07-08
