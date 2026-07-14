@@ -25,7 +25,7 @@ class NotificationManager:
             self.twilio_client = None
 
     def send_email_report(self, to_email: str, subject: str, html_content: str):
-        """Gmail SMTP හරහා Executive Report එක Email කිරීම"""
+       
         msg = MIMEMultipart()
         msg['From'] = self.sender_email
         msg['To'] = to_email
