@@ -8,17 +8,17 @@ class NotificationManager:
     def __init__(self):
         self.enabled = True
         
-        # 1. Email Credentials (ඔයා කලින් හදාගත්ත ටික මෙතනට දාන්න)
+        # 1. Email Credentials 
         self.sender_email = os.getenv('SENDER_EMAIL', 'virajrajaka8@gmail.com')
         self.sender_app_password = os.getenv('SENDER_PASSWORD', 'psiz pnxd vwbp xnaod')
 
         # 2. Twilio WhatsApp Credentials
-        # ⚠️ Twilio එකවුන්ට් එකක් හදලා ලැබෙන ඇත්තම SID සහ Token එක මෙතනට දාන්න මචන්
+
         self.account_sid = os.getenv('TWILIO_ACCOUNT_SID', 'YOUR_TWILIO_ACCOUNT_SID')
         self.auth_token = os.getenv('TWILIO_AUTH_TOKEN', 'YOUR_TWILIO_AUTH_TOKEN')
-        self.whatsapp_from = 'whatsapp:+14155238886' # Twilio Sandbox සයිට් එකෙන් දෙන නම්බර් එක
+        self.whatsapp_from = 'whatsapp:+14155238886' # Twilio Sandbox 
 
-        # Twilio Client එක සක්‍රීය කිරීම
+        # Twilio Client 
         if self.account_sid != 'YOUR_TWILIO_ACCOUNT_SID':
             self.twilio_client = Client(self.account_sid, self.auth_token)
         else:
@@ -42,13 +42,13 @@ class NotificationManager:
             return False
 
     def send_whatsapp_report(self, to_number: str, message_body: str):
-        """Twilio Sandbox හරහා WhatsApp වාර්තාවක් සජීවීව යැවීම"""
+       
         if not self.twilio_client:
             print("[WARNING] Twilio client not configured. Skipping WhatsApp send.")
             return False
 
         try:
-            # නම්බර් එක ඉස්සරහට whatsapp: කෑල්ල නැත්නම් ඒක එකතු කරනවා
+            
             formatted_to = f"whatsapp:{to_number}" if not to_number.startswith("whatsapp:") else to_number
             
             message = self.twilio_client.messages.create(
