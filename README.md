@@ -100,7 +100,7 @@ Automation: Python background workers
 📞 Support
 For issues or questions:
 
-Email: support@gamagerecruiters.lk
+Email: virajrajaka12@gmail.com
 Internal: IT Support PortalInit part 1
 Init part 2
 Init part 3
