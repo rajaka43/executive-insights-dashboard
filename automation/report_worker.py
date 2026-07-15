@@ -270,15 +270,3 @@ Gamage Recruiters Analytics System
         print(f"  → Deleted {deleted_count} old report files")
 
 
-def main():
-    """
-    Main entry point for automation worker
-    Can be scheduled via cron or task scheduler
-    """
-    worker = ReportWorker()
-    worker.run_scheduled_job()
-    worker.cleanup_old_reports(days_to_keep=30)
-
-
-if __name__ == "__main__":
-    main()
