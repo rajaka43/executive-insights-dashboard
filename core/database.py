@@ -77,4 +77,16 @@ class MockDatabase:
             df = df[df['application_date'] <= pd.to_datetime(end_date)]
             
         return df
+        
+# Singleton Database instance wrapper
+_db_instance = None
+
+def get_database() -> MockDatabase:
+    """
+    Returns the centralized database instance
+    """
+    global _db_instance
+    if _db_instance is None:
+        _db_instance = MockDatabase()
+    return _db_instance
 
